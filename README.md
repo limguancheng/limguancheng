@@ -106,7 +106,7 @@ Stepped beyond technical work to build resilience and strengthen my interpersona
 | 📘 [TIS_Learning](https://github.com/limguancheng/TIS_Learning) | Documentation and materials from my Technology and Information System learning process. |
 | 🐍 [42_python](https://github.com/limguancheng/42_python) | Python projects, Piscine tasks, and exercises from my journey at 42 Iskandar Puteri. |
 | ⚙️ [Clanguage](https://github.com/limguancheng/Clanguage) | C programming modules, Piscine tasks, and algorithmic exercises from my journey at 42 Iskandar Puteri. |
-| 📈 [professional-development-portfolio](https://github.com/limguancheng/professional-development-portfolio) | A portfolio tracking my professional and academic development. |
+
 
 ---
 
