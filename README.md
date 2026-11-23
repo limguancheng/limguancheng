@@ -1,6 +1,7 @@
 <!-- 🌈 Profile banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Guan%20Cheng%20LIM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Cybersecurity%20%7C%20Networking&descAlignY=60&descSize=17" alt="Profile banner" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:845EC2,100:FF6B6B&height=220&section=header&text=Guan%20Cheng%20LIM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Cybersecurity%20%7C%20Networking&descAlignY=60&descSize=17" alt="Colorful profile header" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Lim Guan Cheng !</h1>
@@ -126,7 +127,7 @@ Stepped beyond technical work to build resilience and strengthen my interpersona
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=limguancheng&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:845EC2,100:00C9FF&height=120&section=footer" alt="Colorful profile footer" />
 </p>
 
 ---
