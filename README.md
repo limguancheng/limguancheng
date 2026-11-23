@@ -1,10 +1,10 @@
 <!-- 🌈 Profile banner -->
 <p align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:845EC2,100:FF6B6B&height=220&section=header&text=Guan%20Cheng%20LIM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Cybersecurity%20%7C%20Networking&descAlignY=60&descSize=17" alt="Colorful profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:845EC2,100:FF6B6B&height=220&section=header&text=Lim%20Guan%20Cheng&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Cybersecurity%20%7C%20Networking&descAlignY=60&descSize=17" alt="Lim Guan Cheng profile banner" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm Lim Guan Cheng !</h1>
+<h1 align="center">👋 Hi there, I'm Lim Guan Cheng!</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student+at+UTM;Interested+in+Cybersecurity+%26+Networks;Learning+by+Building+Projects;Always+Growing+and+Exploring" alt="Animated introduction" />
