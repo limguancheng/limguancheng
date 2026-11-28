@@ -106,15 +106,7 @@ Stepped beyond technical work to build resilience and strengthen my interpersona
 | 📘 [TIS_Learning](https://github.com/limguancheng/TIS_Learning) | Documentation and materials from my Technology and Information System learning process. |
 | 🐍 [42_python](https://github.com/limguancheng/42_python) | Python projects, Piscine tasks, and exercises from my journey at 42 Iskandar Puteri. |
 | ⚙️ [Clanguage](https://github.com/limguancheng/Clanguage) | C programming modules, Piscine tasks, and algorithmic exercises from my journey at 42 Iskandar Puteri. |
-| 📚 [ClubLedger](https://github.com/nabilsharudin/Airost-Intern) | A full‑stack web app for club project & expense management.
-Key highlights:
-• Member onboarding flow with three‑step guided UI (sign‑up → profile → welcome).
-• Real‑time dashboard powered by Supabase Realtime (projects, expenses, role‑based views).
-• Row‑Level Security enforces member vs. treasurer permissions.
-• Built with Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4.
-• Hosted on Hostinger (rotitesting.com).
-• Testing contribution – identified and helped fix UI issues (e.g., missing Cancel button on project creation).
-• Screenshots of the entire member journey live in the MemberOnboarding/ folder and are embedded in the READM |
+| 📚 [ClubLedger](https://github.com/nabilsharudin/Airost-Intern) | A full‑stack web app for club project & expense management.Testing contribution – identified and helped fix UI issues (e.g., missing Cancel button on project creation). Screenshots of the entire member journey live in the MemberOnboarding/ folder and are embedded in the README.md |
 
 ---
 
